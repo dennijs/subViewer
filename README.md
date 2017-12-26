@@ -7,7 +7,7 @@ This simple plugin allows you to display the amount of your youtube channel subs
 2. Open your plugin directory:
 >Windows: %appdata%\betterdiscord\plugins\
 >Mac: ~/Library/Preferences/BetterDiscord/plugins
-3. Paste the file (subViewer.plugin.js) into the appropriate folder
+3. Paste the file (subViewer.plugin.js and subViewer.config.json) into the appropriate folder
 4. That's all. Run Discord
 
 ## To do:
