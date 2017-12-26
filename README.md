@@ -10,5 +10,5 @@ This is simple plugin allows you to display the amount of your youtube channel s
 3. Paste there subViewer.plugin.js
 4. That's all. Run Discord
 
-![alt text](https://s5.postimg.org/ev0ev80on/sds.png "subViewer")
+![alt text](https://s5.postimg.org/6cqyqxzbr/asd-1.png "subViewer")
 
