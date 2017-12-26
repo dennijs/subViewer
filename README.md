@@ -18,5 +18,7 @@ This is simple plugin allows you to display the amount of your youtube channel s
 - add custom animations (possible to change in settings of plugin)
 - form verification (settings) 
 
+v. 1.0
+
 ![alt text](https://s5.postimg.org/6cqyqxzbr/asd-1.png "subViewer")
 
