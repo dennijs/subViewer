@@ -1,5 +1,5 @@
 # subViewer
-This is simple plugin allows you to display the amount of your youtube channel subscriptions in Discord.
+This simple plugin allows you to display the amount of your youtube channel subscriptions in Discord.
 
 ## Instalation:
 
