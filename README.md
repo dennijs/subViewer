@@ -24,5 +24,4 @@ Icons made by Gregor Cresnar from www.flaticon.com is licensed by CC 3.0 BY
 
 ![alt text](https://s5.postimg.org/6cqyqxzbr/asd-1.png "subViewer")
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/PSnxQc2_fjE" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/PSnxQc2_fjE/0.jpg" 
-alt="subViewer" width="240" height="180" border="10" /></a>
+(http://img.youtube.com/vi/PSnxQc2_fjE/0.jpg)](http://www.youtube.com/watch?v=PSnxQc2_fjE)
