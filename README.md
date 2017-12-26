@@ -19,6 +19,7 @@ This is simple plugin allows you to display the amount of your youtube channel s
 - form verification (settings) 
 
 v. 1.0
+
 Icons made by Gregor Cresnar from www.flaticon.com is licensed by CC 3.0 BY
 
 ![alt text](https://s5.postimg.org/6cqyqxzbr/asd-1.png "subViewer")
