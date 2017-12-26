@@ -7,7 +7,7 @@ This is simple plugin allows you to display the amount of your youtube channel s
 2. Open your plugin directory:
 >Windows: %appdata%\betterdiscord\plugins\
 >Mac: ~/Library/Preferences/BetterDiscord/plugins
-3. Paste there subViewer.plugin.js
+3. Paste the file (subViewer.plugin.js) into the appropriate folder
 4. That's all. Run Discord
 
 ## To do:
